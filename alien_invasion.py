@@ -1,6 +1,4 @@
 # -*- coding:utf-8 -*-
-print("多写了一行")
-print("在TEMP中又写了一行")
 from random import gammavariate
 import pygame
 from pygame.sprite import Group
